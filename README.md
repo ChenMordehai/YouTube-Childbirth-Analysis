@@ -179,7 +179,7 @@ flowchart LR
 
 1. [OpenAI Whisper](https://github.com/openai/whisper)  
 2. [TextBlob Documentation](https://textblob.readthedocs.io/en/dev/)  
-3. [scrapetube](https://pypi.org/project/scrapetube/))  
+3. [scrapetube](https://pypi.org/project/scrapetube/) 
 4. [insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
 5. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 6. [langdetect](https://pypi.org/project/langdetect/)
